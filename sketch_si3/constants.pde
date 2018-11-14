@@ -1,0 +1,13 @@
+final int SCREENX = 500;
+final int SCREENY = 500;
+final int NUMBER_OF_ALIENS = 10;
+final int ALIEN_SIZE = 20;
+final int GAP = 20;
+final int START_Y = 0;
+final int AMMO_COUNT = 5;
+final int COOLDOWN = 60;
+final int BRICK_WIDTH = 10;
+final int BRICK_HEIGHT = 10;
+final int BRICK_COLUMNS = 10;
+final int BRICK_ROWS = 2;
+final int SHIELD_GAP = 50;

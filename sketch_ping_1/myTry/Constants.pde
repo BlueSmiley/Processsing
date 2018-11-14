@@ -1,0 +1,13 @@
+final color BLUE = color(0,0,255);
+final color WHITE = color(255,255,255);
+final color BLACK = color(0);
+final color RED = color(255,0,0);
+final color YELLOW = color(255,255,0);
+final int SCREENX = 600;
+final int SCREENY = 600;
+final int HUDSIZEY = 100;
+final int HUDSIZEX = 600;
+final int MARGIN = 50;
+final int SMALLMARGIN = 10;
+final int LIVES = 3;
+final int LIFE_RADIUS = 10;
